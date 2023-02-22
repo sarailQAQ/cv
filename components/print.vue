@@ -20,7 +20,7 @@
 import { OptionConfig } from '../config/index.js'
 
 const evBeforePrint = () => {
-  window.document.title = OptionConfig.printName || prevTitle.replace(/\ *\|\ */g, '-')
+  //window.document.title = OptionConfig.printName || prevTitle.replace(/\ *\|\ */g, '-')
 }
 
 const evAfterPrint = () => {

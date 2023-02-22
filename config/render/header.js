@@ -20,9 +20,8 @@
    * 建议区分各种信息的层级
      */
      profiles: [
-     '男 · 2019级本科  ',
-     '重庆邮电大学 · 计算机学院·数据科学与大数据技术',
-      '红岩网校Web研发部部长·前ACM集训队队长',
+     '男 · 2023届本科  ',
+     '重庆邮电大学 · 数据科学与大数据技术',
      
      ],
      /**
@@ -49,7 +48,10 @@
      */
      contacts: [
       { address:  'sarail@qq.com',  type: 'mail'  },
-    ],
+  
+   {address: '15257608528', type: 'tell'}
+   
+   ],
    /**
    
  * @param {[Boolean]} 是否显示微信二维码
@@ -60,7 +62,7 @@
  
  * 注意是png格式，长宽比应为1:1
    */
-   weChatQrCode: true,
+   weChatQrCode: false,
    /**
    
  * 是否在HTML文档页面显示二维码
