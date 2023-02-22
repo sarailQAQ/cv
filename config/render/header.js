@@ -49,7 +49,8 @@
      contacts: [
       { address:  'sarail@qq.com',  type: 'mail'  },
   
-   {address: '15257608528', type: 'tell'}
+   {address: '15257608528', type: 'tell'},
+   {address: 'http://sarailqaq.org.cn', type: 'blog'}
    
    ],
    /**
