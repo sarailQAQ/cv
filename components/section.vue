@@ -120,4 +120,7 @@
       float none !important
       margin-right 5px
 
+  table,table tr th, table tr td { border:1px solid #dfe2e5; }
+  
+
 </style>
